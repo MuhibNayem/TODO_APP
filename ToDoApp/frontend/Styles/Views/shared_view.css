@@ -1,0 +1,44 @@
+#registration-view{
+    display: grid;
+    margin: auto;
+    width: 30%;
+}
+#login-view{
+    display: grid;
+    margin: auto;
+    width: 30%;
+}
+#AddTODO-view{
+    display: grid;
+    margin: auto;
+    width: 30%;
+}
+
+.editTodo{
+    display: grid;
+    margin: auto;
+    width: 30%;
+}
+
+#RegisterBtn{
+    margin-top: 10px;
+    width: 25%;
+}
+#LoginBtn{
+    margin-top: 10px;
+    width: 25%;
+}
+#addBtn{
+    margin-top: 10px;
+    width: 25%;
+}
+#updateBtn{
+    margin-top: 10px;
+    width: 25%;
+}
+/*#description-field{*/
+/*    height: 30px;*/
+/*}*/
+:host{
+    display: block;
+}

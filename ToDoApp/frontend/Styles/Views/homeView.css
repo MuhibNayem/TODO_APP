@@ -1,0 +1,22 @@
+#home-view{
+    display: grid;
+    margin: auto;
+    width: 50%;
+}
+#welcome-text{
+    margin: auto;
+}
+#link-user{
+    margin: auto;
+
+}
+#link-supervisor{
+    margin: auto;
+}
+#link-login{
+    margin: auto;
+}
+
+:host{
+    display: block;
+}
